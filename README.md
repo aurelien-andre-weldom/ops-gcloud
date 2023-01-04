@@ -3,13 +3,13 @@
 ### Build
 
 ```shell
-docker build . -t gcloud:latest
+docker build . -t ops-gcloud:latest
 ```
 
 ### Run
 
 ```shell
-docker run -it --rm gcloud:latest bash
+docker run -it --rm ops-gcloud:latest bash
 ```
 
 ### Login
